@@ -1,0 +1,14 @@
+input [type='submit'] {
+    display: block;
+    margin: 10px auto;
+    background-color: aquamarine;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    padding: 4px 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.error {
+    color: red;
+}
